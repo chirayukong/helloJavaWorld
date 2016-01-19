@@ -1,0 +1,13 @@
+Package: helloJavaWorld
+Version: 0.1
+Date: 2016-1-14
+Title: Hello Java World
+Author: Chirayu Wongchokprasitti
+Maintainer: Chirayu Wongchokprasitti <chirayu.kong@gmail.com>
+Description: Hello Java World
+Depends: R (>= 2.15.0)
+Imports: rJava
+SystemRequirements: Java (>= 1.8), JRI
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2016-1-14 EST
